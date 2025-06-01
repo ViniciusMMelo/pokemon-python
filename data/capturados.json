@@ -1,0 +1,104 @@
+{
+    "Vinicius": [
+        {
+            "name": "Pikachu",
+            "atributos": {
+                "Vida": 30,
+                "Poder": 5,
+                "Velocidade": 2
+            }
+        },
+        {
+            "name": "Eevee",
+            "atributos": {
+                "Vida": 38,
+                "Poder": 10,
+                "Velocidade": 1
+            }
+        },
+        {
+            "name": "Bulbasaur",
+            "atributos": {
+                "Vida": 33,
+                "Poder": 7,
+                "Velocidade": 1.2
+            }
+        },
+        {
+            "name": "Charmander",
+            "atributos": {
+                "Vida": 35,
+                "Poder": 6,
+                "Velocidade": 1.2
+            }
+        },
+        {
+            "name": "Squirtle",
+            "atributos": {
+                "Vida": 26,
+                "Poder": 9,
+                "Velocidade": 1.6
+            }
+        }
+    ],
+    "]": [
+        {
+            "name": "Bulbasaur",
+            "atributos": {
+                "Vida": 33,
+                "Poder": 7,
+                "Velocidade": 1.2
+            }
+        },
+        {
+            "name": "Squirtle",
+            "atributos": {
+                "Vida": 26,
+                "Poder": 9,
+                "Velocidade": 1.6
+            }
+        }
+    ],
+    "Caio": [
+        {
+            "name": "Squirtle",
+            "atributos": {
+                "Vida": 26,
+                "Poder": 9,
+                "Velocidade": 1.6
+            }
+        },
+        {
+            "name": "Charmander",
+            "atributos": {
+                "Vida": 35,
+                "Poder": 6,
+                "Velocidade": 1.2
+            }
+        },
+        {
+            "name": "Eevee",
+            "atributos": {
+                "Vida": 38,
+                "Poder": 10,
+                "Velocidade": 1
+            }
+        },
+        {
+            "name": "Pikachu",
+            "atributos": {
+                "Vida": 30,
+                "Poder": 5,
+                "Velocidade": 2
+            }
+        },
+        {
+            "name": "Bulbasaur",
+            "atributos": {
+                "Vida": 33,
+                "Poder": 7,
+                "Velocidade": 1.2
+            }
+        }
+    ]
+}
