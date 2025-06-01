@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Pokemon Python
 
 Um minigame 2D em Python com pygame onde o jogador explora um mapa, encontra Pokémons, visualiza seus atributos e os captura. Após capturar três Pokémons, o jogador pode avançar para um novo mapa!
 
